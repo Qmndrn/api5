@@ -25,8 +25,8 @@ project/
 ### 1. Скачайте проект
 
 ```bash
-git clone https://github.com/Qmndrn/api5.git
 cd ваш-репозиторий
+git clone https://github.com/Qmndrn/api5.git
 ```
 
 ### 2. Установите зависимости
